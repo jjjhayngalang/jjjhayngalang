@@ -1,4 +1,4 @@
-JENER N. GALANG
+JENER N. GALANG<br>
 Web Developer | PHP Developer | Java Programmer | IT Instructor
 https://github.com/jjjhayngalang
 jjhayngalang@gmail.com
@@ -72,5 +72,3 @@ Faculty Certification
 Other Certifications
 •	Certified Blockchain Developer (July 2020)
 ________________________________________
-REFERENCES
-Available upon request.
