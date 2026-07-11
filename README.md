@@ -1,5 +1,5 @@
 JENER N. GALANG<br>
-Web Developer | PHP Developer | Java Programmer | IT Instructor
+Web Developer | PHP Developer | Java Programmer | IT Instructor<br>
 https://github.com/jjjhayngalang
 jjhayngalang@gmail.com
 ________________________________________
